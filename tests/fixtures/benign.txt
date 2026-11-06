@@ -1,0 +1,35 @@
+The quick brown fox jumps over the lazy dog.
+ignore the noise in the data
+system: Linux
+assistant: Please find the report attached.
+Meeting moved to 3 pm on Thursday, room 4B.
+The previous version of the document had fewer instructions for assembly.
+You can safely forget about the old password policy.
+Click [the docs](https://example.com/docs) for details.
+Visit ![logo](https://example.com/logo.png) to see the logo.
+Compute 2 + 2 = 4 and print the result.
+{"name": "Alice", "age": 30}
+Café menu: crème brûlée, jalapeño, naïve résumé.
+日本語のテキストも安全に扱えます。
+Привет, мир! Это обычное сообщение.
+Αυτό είναι ένα απλό μήνυμα.
+Full-width digits １２３ are fine.
+Please repeat the question before answering.
+Reveal the winner after the final round.
+Print the document and sign on the last page.
+To disregard a warning is risky; read the manual first.
+Prior to launch, review the rules of engagement.
+The terminal shows a system prompt after boot.
+Ignore case when sorting the list.
+Remember: assistant professor positions are open.
+Q3 revenue grew 12% year over year.
+import os; print(os.getcwd())
+SELECT name FROM users WHERE id = 7;
+A long URL: https://example.com/search?q=hello+world&page=2
+See you at the stand-up tomorrow morning.
+Thanks for your help, I really appreciate it!
+The HTML tag <b>bold</b> renders text in bold.
+Version 2.0 notes: faster startup, smaller memory footprint.
+Emoji are fine too 🙂 and 🚀.
+The base64 alphabet has 64 characters: A-Z, a-z, 0-9, plus and slash.
+Email the draft to the team by Friday.

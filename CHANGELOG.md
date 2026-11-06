@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Add `scan` with explainable weighted rules, Unicode obfuscation removal (zero-width, bidi, tag characters, fullwidth, listed confusables), an optional raise-only classifier port, typed `GuardError` codes and a documented threat model.
 - Initial project structure from the factory utility template.
