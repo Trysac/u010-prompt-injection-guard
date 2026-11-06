@@ -1,14 +1,14 @@
 # prompt-injection-guard
 
-> Screen user input and retrieved content for prompt injection with explainable rules, Unicode obfuscation removal including tag characters, and an optional classifier that can only raise the score Python package `trysac-prompt-injection-guard`, import name `prompt_injection_guard`, MIT licensed,
-> Python >= 3.10, no runtime dependencies.
+> Offline first-line screen for prompt injection in user input and retrieved content, with explainable weighted rules, Unicode obfuscation removal including tag characters, and an optional classifier that can only raise the score. Python package `trysac-prompt-injection-guard`, import name `prompt_injection_guard`, MIT licensed, Python >= 3.10, no runtime dependencies.
 
 ## Docs
 
-- [README](README.md): problem, install, usage example
+- [README](README.md): problem, install, usage example, public API
 - [AGENTS](AGENTS.md): commands, folder map, conventions, limits
 - [Architecture](docs/ARCHITECTURE.md): shape of the package and its public API
 - [Testing](docs/TESTING.md): how to run and extend the tests
+- [Security](docs/SECURITY.md): threat model, defended and not defended items
 
 ## Optional
 
