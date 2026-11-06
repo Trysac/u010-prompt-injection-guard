@@ -1,0 +1,1 @@
+{"lang": "python", "package": "trysac-prompt-injection-guard", "commands": {"install": [["uv", "sync"]], "check": [["uv", "run", "python", "scripts/check.py"]]}}
